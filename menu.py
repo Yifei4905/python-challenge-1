@@ -173,7 +173,6 @@ while place_order:
                 print("Thank you for your order.")
                 break
             case 'y':
-                place_order = True
                 break
             case _:
                 # Tell the customer to try again
