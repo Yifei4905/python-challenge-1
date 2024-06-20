@@ -10,9 +10,12 @@ This Python software enables consumers to place orders from a range of menu cate
 
 ## How to Use
 
-1. **Run the Script**: Execute the `menu.py` script using Python.
+1. **Run the Script**: Execute the `menu.py` script using Python or Python3.
     ```bash
     python menu.py
+    ```
+    ```bash
+    python3 menu.py
     ```
 
 2. **Select Menu Category**: Choose a menu category by entering the corresponding number.
